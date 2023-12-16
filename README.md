@@ -1,7 +1,7 @@
 # Miscellaneous Code
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
-Repo for my miscellaneous code, school projects, or just code that doesn't fit into specific categories or projects.
+Repo for my miscellaneous code, pet projects, or just code that doesn't fit into specific categories or projects.
 
 ## Table of Contents
 1. [`Discord Bot Template`](https://github.com/tyleroneil72/misc-code/tree/main/discord-bot-python)
