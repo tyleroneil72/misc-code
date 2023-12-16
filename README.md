@@ -1,4 +1,6 @@
 # Miscellaneous Code
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+## Description
 Repo for my miscellaneous code, school projects, or just code that doesn't fit into specific categories or projects.
 
 ## License
