@@ -5,7 +5,8 @@ Repo for my miscellaneous code, school projects, or just code that doesn't fit i
 
 ## Table of Contents
 1. [`Discord Bot Template`](https://github.com/tyleroneil72/misc-code/tree/main/discord-bot-python)
-2. [`XYZ Airlines`](https://github.com/tyleroneil72/misc-code/tree/main/xyz-airlines)
+2. [`DVD Screensaver`](https://github.com/tyleroneil72/misc-code/tree/main/dvd-screensaver)
+3. [`XYZ Airlines`](https://github.com/tyleroneil72/misc-code/tree/main/xyz-airlines)
 
 ## License
 All files are licensed under the MIT License - see the LICENSE file for details.
