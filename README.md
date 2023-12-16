@@ -4,7 +4,7 @@
 Repo for my miscellaneous code, pet projects, or just code that doesn't fit into specific categories or projects.
 
 ## Table of Contents
-1. [`Discord Bot Template`](https://github.com/tyleroneil72/misc-code/tree/main/discord-bot-python)
+1. [`Discord Bot Template`](https://github.com/tyleroneil72/misc-code/tree/main/discord-bot)
 2. [`DVD Screensaver`](https://github.com/tyleroneil72/misc-code/tree/main/dvd-screensaver)
 3. [`XYZ Airlines`](https://github.com/tyleroneil72/misc-code/tree/main/xyz-airlines)
 
