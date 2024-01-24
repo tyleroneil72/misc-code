@@ -9,7 +9,7 @@ As a primary MacBook user I have always struggled with wanting to plug my MacBoo
 
 ## Note:
 
-```Bash
+```bash
 # Run this command to check what your hibernation mode currently is
 pmset -g | grep hibernatemode
 ```
