@@ -27,6 +27,8 @@ chmod +x no-doze-off.sh
 
 ## Note:
 
+If No Doze is on the hibernatemode will be 0, else it will be what you set it to (Default 3)
+
 ```bash
 # Run this command to check what your hibernation mode currently is
 pmset -g | grep hibernatemode
