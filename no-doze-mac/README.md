@@ -7,6 +7,13 @@
 
 As a primary MacBook user I have always struggled with wanting to plug my MacBook to a monitor while it is closed. Unfortunately Apple has made the default hibernation settings to shut off the external display if the computer is closed and not plugged in. There are many applications you can download, but this problem can be solved in just a few commands on the terminal.
 
+## Note:
+
+```Bash
+# Run this command to check what your hibernation mode currently is
+pmset -g | grep hibernatemode
+```
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
