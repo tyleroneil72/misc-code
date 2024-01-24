@@ -11,7 +11,7 @@ Repo for my miscellaneous code, pet projects, or just code that doesn't fit into
 1. [`Discord Bot Template`](https://github.com/tyleroneil72/misc-code/tree/main/discord-bot)
 2. [`DVD Screensaver`](https://github.com/tyleroneil72/misc-code/tree/main/dvd-screensaver)
 3. [`XYZ Airlines`](https://github.com/tyleroneil72/misc-code/tree/main/xyz-airlines)
-4. [`No Doze Mac`](https://github.com/tyleroneil72/misc-code/tree/main/no-doze-mac)
+4. [`No Doze`](https://github.com/tyleroneil72/misc-code/tree/main/no-doze-mac)
 
 ## License
 
