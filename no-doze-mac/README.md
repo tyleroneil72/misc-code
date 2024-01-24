@@ -5,7 +5,7 @@
 
 ## Description
 
-As a primary MacBook user, I've often faced the challenge of using my MacBook with an external monitor while keeping it closed and unplugged, to help preserve battery health. Apple's default settings, however, cause the external display to turn off when the MacBook is closed and not charging. While there are various apps available to address this issue, a simple solution exists right within the MacBook's Terminal. Just a few commands can effectively resolve this problem.
+As a primary Mac user, I've often faced the challenge of using my MacBook with an external monitor while keeping it closed and unplugged, to help preserve battery health. Apple's default settings, however, cause the external display to turn off when the MacBook is closed and not charging. While there are various apps available to address this issue, a simple solution exists right within the MacBook's Terminal. Just a few commands can effectively resolve this problem.
 
 ## Installation
 
