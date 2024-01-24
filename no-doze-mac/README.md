@@ -20,9 +20,9 @@ chmod +x no-doze-off.sh
 
 ```bash
 # To turn it on
-./no-doze.on.sh
+./no-doze-on.sh
 # To turn it off
-./no-doze.off.sh
+./no-doze-off.sh
 ```
 
 ## Note:
