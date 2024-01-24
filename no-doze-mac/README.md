@@ -5,7 +5,7 @@
 
 ## Description
 
-As a primary MacBook user I have always struggled with wanting to plug my MacBook to a monitor while it is closed while it is not connected to a power source to save battery health. Unfortunately Apple has made the default hibernation settings to shut off the external display if the computer is closed and not plugged in. There are many applications you can download, but this problem can be solved in just a few commands on the terminal.
+As a primary MacBook user, I've often faced the challenge of using my MacBook with an external monitor while keeping it closed and unplugged, to help preserve battery health. Apple's default settings, however, cause the external display to turn off when the MacBook is closed and not charging. While there are various apps available to address this issue, a simple solution exists right within the MacBook's Terminal. Just a few commands can effectively resolve this problem.
 
 ## Installation
 
