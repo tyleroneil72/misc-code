@@ -4,7 +4,7 @@
 
 ## Description
 
-Repo for my miscellaneous code, pet projects, or just code that doesn't fit into specific categories or projects.
+Repository for my miscellaneous code, pet projects, or just code that doesn't fit into specific categories or projects.
 
 ## Table of Contents
 
