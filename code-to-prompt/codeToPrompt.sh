@@ -18,6 +18,12 @@ output_file="prompt.txt"
 # Function to process each file
 process_file() {
     local file="$1"
+    # Check if the file is an image and skip it if true
+    case "${file##*.}" in
+        jpg|jpeg|png|gif|bmp|tiff|tif|webp|svg)
+            return
+            ;;
+    esac
     # Add the full relative path of the file at the top
     echo "FILE NAME: ${file#./}" >> "$output_file"
     echo "" >> "$output_file"
