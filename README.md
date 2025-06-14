@@ -4,15 +4,13 @@
 
 ## Description
 
-Repository for my miscellaneous code, pet projects, or just code that doesn't fit into specific categories or projects.
+Repository for my miscellaneous code, scripts, or just code that doesn't fit into specific categories or projects.
 
 ## Table of Contents
 
 1. [`Code To Prompt`](https://github.com/tyleroneil72/misc-code/tree/main/code-to-prompt)
 2. [`Discord Bot Template`](https://github.com/tyleroneil72/misc-code/tree/main/discord-bot)
-3. [`DVD Screensaver`](https://github.com/tyleroneil72/misc-code/tree/main/dvd-screensaver)
-4. [`XYZ Airlines`](https://github.com/tyleroneil72/misc-code/tree/main/xyz-airlines)
-5. [`No Doze`](https://github.com/tyleroneil72/misc-code/tree/main/no-doze-mac)
+3. [`No Doze`](https://github.com/tyleroneil72/misc-code/tree/main/no-doze-mac)
 
 ## License
 
